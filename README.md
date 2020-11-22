@@ -15,4 +15,4 @@ Observer: The observer design pattern is used for keeping track of the following
 Visitor: The visitor design pattern is used in the buttons for the classes GroupTotal, MessageTotal, UserTotal, and PositiveMessageTotal and other visitor classes like SysEntryVisitable, SysEntryVisitor. The visitor pattern is used for UserGroup to create the hierarchy of items. 
 
 
-Given extension by Professor Sun 
+Given extra extension by Professor Sun due to health reasons 
